@@ -4,9 +4,8 @@ This is a repo including all matlab codes, images and our paper for the Problem 
 
 ---
 
-The _pdf_ file for the problem B can be found [here](https://github.com/Dasher-mango/2023CUMCM/blob/main/B%E9%A2%98.pdf)
+The _pdf_ file for the problem B can be found [here](https://github.com/Dasher-mango/2023CUMCM/blob/main/B%E9%A2%98.pdf).
 
----
 
 The problem is broken into four subproblems, which are listed below
 - Establish a mathematical model for the coverage width of multi-beam bathymetry and the overlap rate between adjacent strips.
